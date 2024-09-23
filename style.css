@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+* {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+}
+.img-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(6,170,94,255);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100vh;
+    font-size: larger;
+    color: aliceblue;
+}
+
+.img-container img{
+    height: 80vh;
+    width: 80vh;
+}
