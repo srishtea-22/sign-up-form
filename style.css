@@ -15,7 +15,7 @@ body {
     background-color: rgba(6,170,94,255);
     align-items: center;
     justify-content: space-evenly;
-    width: 100vh;
+    width: 110vh;
     font-size: larger;
     color: aliceblue;
 }
@@ -23,4 +23,10 @@ body {
 .img-container img{
     height: 80vh;
     width: 80vh;
+}
+
+.form {
+    background-color: rgba(25,57,70);
+    color: aliceblue;
+    width: 150vh;
 }
