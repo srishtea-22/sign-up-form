@@ -11,8 +11,26 @@
         <h1>Join Us Today!</h1>
         <img src="sign up.svg">
     </div>
-    <div class="form">
-        <h1>Sign Up</h1>
+    <div class="form-container">
+        <h1>Sign Up!</h1>
+        <form action method>
+            <div><label for="first_name"></label>
+                <input type="text" id="first_name" name="first_name" placeholder="First Name" required>
+                <label for="last_name"></label>
+                <input type="text" id="last_name" name="last_name" placeholder="Last Name">
+            </div>
+            <div><label for="user_email"></label>
+                <input type="email" id="user_email" name="user_email" placeholder="Email" required>
+                <label for="phone"></label>
+                <input type="number" id="phone" name="phone" placeholder="Phone Number" required>
+            </div>
+            <div>
+                <label for="password"></label>
+                <input type="password" id="password" name="password" placeholder="Password" required>
+                <label for="password-confirm"></label>
+                <input type="password" id="password-confirm" name="password-confirm" placeholder="Confirm Password" required>
+            </div>
+        </form>
     </div>
 </body>
 </html>

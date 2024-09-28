@@ -25,7 +25,7 @@ body {
     width: 80vh;
 }
 
-.form {
+.form-container {
     background-color: rgba(25,57,70);
     color: aliceblue;
     width: 150vh;
