@@ -34,5 +34,17 @@ body {
 .form-container h1{
     font-size: 38px;
     padding-left: 15%;
-    margin-top: 30px;
+    padding-bottom: 5%;
+    margin-top: 100px;
+}
+
+.form-container div{
+    padding-top: 50px;
+    padding-left: 15%;
+    padding-bottom: 50px;
+    margin-right: 20;
+}
+
+#last_name, #phone, #password-confirm{
+    margin-left: 100px;
 }
