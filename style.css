@@ -12,7 +12,7 @@ body {
 .img-container {
     display: flex;
     flex-direction: column;
-    background-color: rgba(6,170,94,255);
+    background-color: rgba(6,170,94);
     align-items: center;
     justify-content: space-evenly;
     width: 110vh;
@@ -53,4 +53,7 @@ input{
     font-size: 1.25rem;
     background-color: transparent;
     border: none;
+}
+.submit-button{
+    background-color: rgba(6,170,94);
 }
