@@ -39,7 +39,7 @@ body {
 }
 
 .form-container div{
-    padding-top: 50px;
+    padding-top: 30px;
     padding-left: 15%;
     padding-bottom: 50px;
     margin-right: 20;
@@ -47,4 +47,10 @@ body {
 
 #last_name, #phone, #password-confirm{
     margin-left: 100px;
+}
+
+input{
+    font-size: 1.25rem;
+    background-color: transparent;
+    border: none;
 }
