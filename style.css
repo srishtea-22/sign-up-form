@@ -30,3 +30,9 @@ body {
     color: aliceblue;
     width: 150vh;
 }
+
+.form-container h1{
+    font-size: 38px;
+    padding-left: 15%;
+    margin-top: 30px;
+}
