@@ -53,6 +53,7 @@ input{
     font-size: 1.25rem;
     background-color: transparent;
     border: none;
+    color: aliceblue;
 }
 .form-container button{
     background-color: rgba(6,170,94);
