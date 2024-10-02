@@ -54,6 +54,11 @@ input{
     background-color: transparent;
     border: none;
 }
-.submit-button{
+.form-container button{
     background-color: rgba(6,170,94);
+    font-size: 18px;
+    border: none;
+    color: aliceblue;
+    border-radius: 4px;
+    padding: 10px 50px;
 }
